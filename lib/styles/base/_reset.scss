@@ -1,0 +1,22 @@
+.library-message-wrapper {
+    *,
+    *::before,
+    *::after {
+        box-sizing: border-box;
+    }
+
+    input,
+    button,
+    textarea,
+    select {
+        font: inherit;
+    }
+
+    button {
+        padding: 0;
+        color: inherit;
+        background: none;
+        border: none;
+        outline: none;
+    }
+}

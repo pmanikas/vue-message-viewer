@@ -1,0 +1,33 @@
+@use 'sass:color';
+
+// Color names from: https://chir.ag/projects/name-that-color
+$white: #FFF;
+$athens-gray: #F3F4F6;
+$mercury-gray: #E5E5E5;
+$alto-grey: #DFDFDF;
+$silver-chalice: #AAA;
+$boulder-grey: #767676;
+$dove-grey: #6B6B6B;
+$emperor: #535353;
+$grey-emperor: #555;
+$mine-shaft: #3E3E3E;
+$mine-shaft-dark: #2B2B2B;
+$grey-cod: #0D0D0D;
+$black: #010101;
+$red-crimson: #EC1D24;
+$red-roof-terracotta: #A71F22;
+$blue-san-marino: #4167B2;
+$azure-radiance: #007AFF;
+$sinbad-blue: #a5cfd5;
+$roof-terracotta: #A71E22;
+$alizarin-crimson: #EC1C24;
+$emerald-green: #53d769;
+$studio-purple: #8A3AB9;
+$transparent-black: rgb(0 0 0 / 50%);
+
+// Brands
+$facebook: $blue-san-marino;
+$ios-blue: $azure-radiance;
+$ios-green: $emerald-green;
+$viber-purple: $studio-purple;
+$viber-blue: $sinbad-blue;
