@@ -10,7 +10,7 @@
   "dependencies": {
     "@mdi/font": "^7.2.96",
     "vue": "^3.2.47",
-    "vue-message-viewer-test": "^0.0.3"
+    "vue-message-viewer": "1.0.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.1.0",
